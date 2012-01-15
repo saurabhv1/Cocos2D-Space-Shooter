@@ -1,0 +1,12 @@
+Lead Developers:
+	Zhou Weikuan (zhouweikuan@gmail.com)
+
+Based on cocos2d-android(0.82), which is somewhat out-of-date.
+
+cocos2d logos by Michael Heald ( http://www.fullyillustrated.com )
+
+The google project is here:
+   http://code.google.com/p/cocos2d-android-1/
+
+We forked our own one because cocos2d-android is going slow, we have to speed it up ourselves.
+Please, send an email to zhouweikuan@gmail.com with your comments.
